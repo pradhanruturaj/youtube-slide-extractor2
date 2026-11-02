@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.pkl
+*.mp4
+*.jpg
+slides.pdf
+.DS_Store
